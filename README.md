@@ -1,5 +1,5 @@
 Hello everyone, my name is Vasily, on my github I post my small projects on which I study and try C ++ / C, 
-as well as study computer graphics, namely opengle and gsl.
+as well as study computer graphics, namely openGL and GLSL.
 - 👋 Hi, I’m @SaberTrigun
 - 👀 I’m interested in C++/C programming, shader programming in GLSL.
 - 🌱 I’m currently learning program in C++/C, multi-threaded programming thread, smart pointers, and in general modern C++.
